@@ -1,4 +1,4 @@
---------------------------------------------Super Store Sales & Forecast Dashboard ------------------------------------------ 
+--------------------------------------------Super Store Sales & Forecast Dashboard ---------------------------------------- 
 Summary:
 Just wrapped up my Super Store Sales & Forecast Dashboard, designed to track sales performance, regional trends, and future projections! This dashboard highlights key metrics like payment modes, regional sales, and a 15-day sales forecast—empowering businesses to make agile, data-driven decisions.
 ________________________________________
